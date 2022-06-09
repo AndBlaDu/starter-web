@@ -7,6 +7,10 @@ this is a simple project
 this is an example to use git
 ## Purpose
 
+text text text
+
 ## Deployment
+
+more text
 
 ## How to contribute
