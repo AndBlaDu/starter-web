@@ -2,8 +2,8 @@
 
 ## Introduction
 
-### Hello this is a text
-
 ## Purpose
+
+## Deployment
 
 ## How to contribute
